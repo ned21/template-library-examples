@@ -1,0 +1,9 @@
+This directory contains an example archetype for use with
+[Aquilon](https://github.com/quattor/aquilon).
+
+To use, copy the example directory to template-king/$name-of-archetype and
+create the following additional directories:
+- $name/features
+- $name/os
+- $name/personality
+
